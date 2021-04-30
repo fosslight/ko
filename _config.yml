@@ -16,7 +16,7 @@ baseurl: "/ko"
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang: en
+lang: ko
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title: FOSSLight
@@ -28,7 +28,7 @@ title: FOSSLight
 
 # A shorter description for the sidebar.
 tagline: >
-  Open Source Project for Open Source Compliance Management
+  Open Source Compliance 관리를 위한 오픈소스 프로젝트
 
 # A list of keywords for your blog
 keywords: []
