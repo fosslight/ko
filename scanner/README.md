@@ -14,7 +14,7 @@ permalink: /scanner/
 
 ![](../assets/img/fosslight_scanner.jpg)
 
-FOSSLight Scanner는 Open Source Compliance를 위한 분석 과정을 한번에 수행 가능한 툴입니다. 소스코드, 바이너리, 디펜던시에 대한 Open Source 분석을 수행하고, 저작권/License 표기 룰 준수 여부를 체크할 수 있습니다.
+FOSSLight Scanner는 Open Source Compliance를 위한 분석 과정을 한번에 수행 가능한 툴입니다. 소스코드, 바이너리, 디펜던시에 대한 Open Source 분석을 수행하고, 저작권/License 표기 규칙 준수 여부를 체크할 수 있습니다.
 
 ## Features
 
@@ -66,8 +66,8 @@ FOSSLight Scanner는 Open Source Compliance를 위한 분석 과정을 한번에
 
 FOSSLight Scanner 프로젝트는 다른 오픈 소스 프로젝트를 **상속**합니다.
 
-- FOSSLight Source는 소스코드 스캔 작업을 위해 **[scancode-toolkit](https://github.com/nexB/scancode-toolkit)** 오픈 소스 프로젝트를 이용합니다.
-- FOSSLight Dependency는 Package manager에 따라 다음과 같이 오픈소스 프로젝트를 이용하여 디펜던시 분석을 수행합니다.
+- FOSSLight Source는 소스코드 스캔 작업을 위해 **[scancode-toolkit](https://github.com/nexB/scancode-toolkit)** 오픈 소스를 이용합니다.
+- FOSSLight Dependency는 Package manager에 따라 다음 오픈소스를 이용하여 디펜던시 분석을 수행합니다.
   - NPM : **[NPM License Checker](https://github.com/davglass/license-checker)**
   - Pypi : **[pip-licenses](https://github.com/raimon49/pip-licenses)**
   - Gradle : **[License Gradle Plugin](https://github.com/hierynomus/license-gradle-plugin)**
@@ -80,9 +80,9 @@ FOSSLight Scanner 프로젝트는 다른 오픈 소스 프로젝트를 **상속*
 - **FOSSLight Dependency** : [https://github.com/fosslight/fosslight_dependency](https://github.com/fosslight/fosslight_dependency)
 
 - 곧 release 예정 프로젝트 목록
+  - FOSSLight Reuse
   - FOSSLight Binary
   - FOSSLight Scanner
-  - FOSSLight Reuse
 
 ## License
 
