@@ -13,7 +13,7 @@ FOSSLight 및 FOSSLight에서 공개하는 Open Source 프로젝트를 소개하
 
 ## License
 
-Copyright (c) 2021 FOSSLight
+Copyright (c) 2021 LG Electronics
 
 - 소스코드는 Open Source License인 [GPL-3.0](LICNESE.md)하에 배포되고 있습니다.
 - Feature 내 이미지 : by [Icons8](https://icons8.com/icon).
