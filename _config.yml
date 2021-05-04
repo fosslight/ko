@@ -48,7 +48,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title: FOSSLight
-    url: /
+    url: /fosslight/
   - title: Scanner
     url: /scanner/
   - title: Guide
