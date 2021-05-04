@@ -14,12 +14,16 @@ Demo 사이트를 방문하셔서 FOSSLight을 직접 이용해 보시기 바랍
 ### 0) Demo URL
 
 > Demo([https://demo.fosslight.org/](https://demo.fosslight.org/){: .emphasis_text}) 사이트로 접속합니다.
-> {:.lead}
 
 ### 1) LogIn
 
 먼저, 'SignUp' 버튼을 클릭하신 후 계정을 생성하신 후, 시스템으로 로그인합니다.
 ![FOSSLight Demo](../assets/img/demo/fosslight_demo_site_login.JPG){: width="700" height="500"}{: .center}
+
+> **(Sample) Admin 계정**: 다음 admin 계정을 통해 admin 모드를 이용하실 수 있습니다.
+>
+> - **ID: admin**
+> - **PW: admin**
 
 ### 2) Try it
 
