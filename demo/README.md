@@ -27,5 +27,5 @@ Demo 사이트를 방문하셔서 FOSSLight을 직접 이용해 보시기 바랍
 
 ### 2) Try it
 
-많은 사람들이 더욱 쉽고 간편하며 편리하게 FOSSLight을 사용할 수 있도록 하기 위해 [FOSSLight 가이드](https://fosslight.org/fosslight-guide/)를 제공하고 있습니다.
+많은 사람들이 더욱 쉽고 간편하며 편리하게 FOSSLight을 사용할 수 있도록 하기 위해 [FOSSLight 가이드](https://fosslight.github.io/fosslight-guide/)를 제공하고 있습니다.
 FOSSLight으로 원하는 모든 것을 직접 시도해 보세요!
