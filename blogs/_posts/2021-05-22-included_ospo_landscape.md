@@ -1,6 +1,6 @@
 ---
 layout: post
-title: OSPO Landsacpe 프로젝트
+title: OSPO Landscape 프로젝트
 description: >
   FOSSLight is included to OSPO landscape project.
 hide_last_modified: true
