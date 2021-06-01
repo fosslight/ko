@@ -55,6 +55,8 @@ menu:
     url: https://fosslight.github.io/fosslight-guide/
   - title: Demo
     url: /demo/
+  - title: Blog
+    url: /blog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -71,11 +73,11 @@ menu:
 copyright: © 2021 LG Electronics. All rights reserved.
 
 # Format of the permalinks
-permalink: /:categories/:year-:month-:day-:title/
+permalink: /blog/:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate: 10
-paginate_path: /:num/
+paginate_path: /blog/:num/
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -287,7 +289,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink: /:name/
+    permalink: /blog/
     output: true
 
   featured_tags:
@@ -387,29 +389,29 @@ sass:
 # Jekyll Compose Defaults
 # ---------------------------------------------------------------------------------------
 
-jekyll_compose:
-  default_front_matter:
-    drafts:
-      layout: post
-      description: >
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-    posts:
-      layout: post
-      description: >
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-    projects:
-      layout: project
-      description: >
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-      links:
-        - title: Project Link
-          url: https://example.com
+# jekyll_compose:
+#   default_front_matter:
+#     drafts:
+#       layout: post
+#       description: >
+#         A short ~160 character description of your post for search engines,
+#         social media previews, etc.
+#       image:
+#         path: /assets/img/sidebar-bg.jpg
+#     posts:
+#       layout: post
+#       description: >
+#         A short ~160 character description of your post for search engines,
+#         social media previews, etc.
+#       image:
+#         path: /assets/img/sidebar-bg.jpg
+#     projects:
+#       layout: project
+#       description: >
+#         A short ~160 character description of your post for search engines,
+#         social media previews, etc.
+#       image:
+#         path: /assets/img/sidebar-bg.jpg
+#       links:
+#         - title: Project Link
+#           url: https://example.com

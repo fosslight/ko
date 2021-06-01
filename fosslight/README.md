@@ -6,6 +6,9 @@ sitemap: false
 permalink: /fosslight/
 ---
 
+* toc
+{:toc}
+
 ## What is FOSSLight?
 
 <img src="../assets/img/fosslight_system.jpg" alt="FOSSLight System"><br>
