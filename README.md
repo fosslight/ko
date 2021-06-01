@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: base
 hide_image: false
 cover: true
 permalink: /
