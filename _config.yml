@@ -55,8 +55,8 @@ menu:
     url: https://fosslight.github.io/fosslight-guide/
   - title: Demo
     url: /demo/
-  - title: Blog
-    url: /blog/
+  - title: News
+    url: /news/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -73,11 +73,11 @@ menu:
 copyright: © 2021 LG Electronics. All rights reserved.
 
 # Format of the permalinks
-permalink: /blog/:categories/:year-:month-:day-:title/
+permalink: /news/:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate: 10
-paginate_path: /blog/:num/
+paginate_path: /news/:num/
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -289,7 +289,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink: /blog/
+    permalink: /news/
     output: true
 
   featured_tags:
