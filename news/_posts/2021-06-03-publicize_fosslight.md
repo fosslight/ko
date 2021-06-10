@@ -2,7 +2,7 @@
 layout: post
 title: FOSSLight 프로젝트 홍보기사
 description: >
-  FOSSLight is released to open source project!
+  FOSSLight press release
 hide_last_modified: true
 ---
 
