@@ -81,8 +81,8 @@ FOSSLight Scanner 프로젝트는 다른 오픈 소스 프로젝트를 **상속*
 - **FOSSLight Dependency Scanner** : [https://github.com/fosslight/fosslight_dependency_scanner](https://github.com/fosslight/fosslight_dependency_scanner)
 
 - 곧 release 예정 프로젝트 목록
-  - FOSSLight Reuse Scanner
   - FOSSLight Binary Scanner
+  - FOSSLight REUSE
   - FOSSLight Scanner
 
 ## License
