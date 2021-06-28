@@ -14,6 +14,8 @@ permalink: /fosslight/
 <img src="../assets/img/fosslight_system.jpg" alt="FOSSLight System"><br>
 FOSSLight은 Open Source와 License를 관리하고, OSC(Open Source Compliance) Process를 순차적으로 처리할 수 있는 통합 시스템입니다.
 
+OSC Process는 <a href="https://oss.lge.com/guide-ko/process/osc_process/"><b>https://oss.lge.com/guide-ko/process/osc_process/</b></a> 사이트를 참조하실 수 있습니다.
+
 ## Features
 
 <div class="flex-container">
