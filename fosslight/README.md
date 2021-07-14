@@ -73,3 +73,8 @@ Github Repository : <a href="https://github.com/fosslight/fosslight"><b>https://
 ## License
 
 FOSSLight은 Open Source License인 <a href="https://github.com/fosslight/fosslight_system/blob/main/LICENSE"><b>AGPL-3.0-only</b></a> 하에 배포되고 있습니다.
+
+## Contact
+
+다음 Slack 링크를 통해 FOSSLight Community에 참여하실 수 있습니다! : [**https://fosslight.slack.com**](https://fosslight.slack.com)  
+또는 버그 리포팅이나 신규 기능 요청은 [**Github issues**](https://github.com/fosslight/fosslight/issues)를 통해 요청해 주시기 바랍니다.
