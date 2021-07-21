@@ -212,3 +212,6 @@ korean:
 english:
   name: English
   icon: icon-language
+slack:
+  name: Slack
+  icon: icon-slack
