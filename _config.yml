@@ -23,12 +23,12 @@ title: FOSSLight
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-# description: >
-#  FOSSLight is the Open Source Project for Open Source Compliance Management.
+description: >
+  오픈 소스 컴플라이언스 관리를 위한 오픈 소스 프로젝트
 
 # A shorter description for the sidebar.
 tagline: >
-  Open Source Compliance 관리를 위한 오픈소스 프로젝트
+  오픈 소스 컴플라이언스 관리를 위한 오픈 소스 프로젝트
 
 # A list of keywords for your blog
 keywords: []
@@ -52,9 +52,11 @@ menu:
   - title: Scanner
     url: /scanner/
   - title: Guide
-    url: https://fosslight.org/fosslight-guide/
+    url: https://fosslight.github.io/fosslight-guide/
   - title: Demo
     url: /demo/
+  - title: News
+    url: /news/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -71,11 +73,11 @@ menu:
 copyright: © 2021 LG Electronics. All rights reserved.
 
 # Format of the permalinks
-permalink: /:categories/:year-:month-:day-:title/
+permalink: /news/:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate: 10
-paginate_path: /:num/
+paginate_path: /news/:num/
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -168,7 +170,7 @@ kramdown:
 
 # Set your Google Analytics id to receive `pageview` events.
 # To remove Google Anaylics from your page, remove the line below.
-# google_analytics:      UA-XXXXXXXX-X
+google_analytics:      UA-196813776-2
 
 # Setting a disqus shortname will enable the comment section on
 # pages with `comments: true` in the front matter.
@@ -287,7 +289,7 @@ hydejack:
 
 collections:
   featured_categories:
-    permalink: /:name/
+    permalink: /news/
     output: true
 
   featured_tags:
@@ -387,29 +389,29 @@ sass:
 # Jekyll Compose Defaults
 # ---------------------------------------------------------------------------------------
 
-jekyll_compose:
-  default_front_matter:
-    drafts:
-      layout: post
-      description: >
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-    posts:
-      layout: post
-      description: >
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-    projects:
-      layout: project
-      description: >
-        A short ~160 character description of your post for search engines,
-        social media previews, etc.
-      image:
-        path: /assets/img/sidebar-bg.jpg
-      links:
-        - title: Project Link
-          url: https://example.com
+# jekyll_compose:
+#   default_front_matter:
+#     drafts:
+#       layout: post
+#       description: >
+#         A short ~160 character description of your post for search engines,
+#         social media previews, etc.
+#       image:
+#         path: /assets/img/sidebar-bg.jpg
+#     posts:
+#       layout: post
+#       description: >
+#         A short ~160 character description of your post for search engines,
+#         social media previews, etc.
+#       image:
+#         path: /assets/img/sidebar-bg.jpg
+#     projects:
+#       layout: project
+#       description: >
+#         A short ~160 character description of your post for search engines,
+#         social media previews, etc.
+#       image:
+#         path: /assets/img/sidebar-bg.jpg
+#       links:
+#         - title: Project Link
+#           url: https://example.com

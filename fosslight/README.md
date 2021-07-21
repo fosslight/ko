@@ -6,10 +6,15 @@ sitemap: false
 permalink: /fosslight/
 ---
 
+* toc
+{:toc}
+
 ## What is FOSSLight?
 
 <img src="../assets/img/fosslight_system.jpg" alt="FOSSLight System"><br>
 FOSSLight은 Open Source와 License를 관리하고, OSC(Open Source Compliance) Process를 순차적으로 처리할 수 있는 통합 시스템입니다.
+
+OSC Process는 <a href="https://oss.lge.com/guide-ko/process/osc_process/"><b>https://oss.lge.com/guide-ko/process/osc_process/</b></a> 사이트를 참조하실 수 있습니다.
 
 ## Features
 
@@ -59,7 +64,7 @@ FOSSLight은 Open Source와 License를 관리하고, OSC(Open Source Compliance)
 
 ## Documentation
 
-설치 및 사용 방법에 대해서는 <a href="https://fosslight.org/fosslight-guide/"><b>FOSSLight 가이드</b></a>를 참조하시기 바랍니다.
+설치 및 사용 방법에 대해서는 <a href="https://fosslight.github.io/fosslight-guide/"><b>FOSSLight 가이드</b></a>를 참조하시기 바랍니다.
 
 ## Source Code
 
@@ -68,3 +73,8 @@ Github Repository : <a href="https://github.com/fosslight/fosslight"><b>https://
 ## License
 
 FOSSLight은 Open Source License인 <a href="https://github.com/fosslight/fosslight_system/blob/main/LICENSE"><b>AGPL-3.0-only</b></a> 하에 배포되고 있습니다.
+
+## Contact
+
+다음 Slack 링크를 통해 FOSSLight Community에 참여하실 수 있습니다! : [**https://fosslight.slack.com**](https://fosslight.slack.com)  
+또는 버그 리포팅이나 신규 기능 요청은 [**Github issues**](https://github.com/fosslight/fosslight/issues)를 통해 요청해 주시기 바랍니다.

@@ -1,24 +1,33 @@
-# FOSSLight
-
-![](https://img.shields.io/badge/license-GPL3.0-blue)
-
-<img src="https://user-images.githubusercontent.com/50347670/115320108-287aeb80-a1bc-11eb-869b-5ef9431ac3d3.png" width="96">
-
 ---
+layout: base
+hide_image: false
+cover: true
+permalink: /
+---
+<div style="text-align: center;">
 
-## Homepage
+<h2 style="font-size: 500%"><img src="assets/img/logo2.png" title="FOSSLight Logo" width="60px">  FOSSLight  </h2>
 
-FOSSLight 및 FOSSLight에서 공개하는 Open Source 프로젝트를 소개하는 홈페이지입니다.
-![](assets/img/fosslight_homepage.PNG)
+<a href="/fosslight"><img src="assets/img/fosslight_system.jpg" title="FOSSLight"></a>
+<h4>FOSSLight은 Open Source와 License를 관리하고,<br>OSC(Open Source Compliance) Process를 순차적으로 처리할 수 있는 통합 시스템입니다.</h4>
+<br/>
+<div class="home_buntton">
+<button class="learn-more" onclick="location.href='fosslight'">
+  <span class="circle" aria-hidden="true">
+    <span class="icon arrow"></span>
+  </span>
+  <span class="button-text">Learn More</span>
+</button>
+</div>
+<br/>
+<br/>
+<br/>
+<hr style="width:100%; border:outset 1px rgb(191, 13, 63);">
+<h2 style="color: rgb(191, 13, 63); text-align: center;">Companies and Organizations Using FOSSLight</h2>
+<a href="https://www.lg.co.kr/"><img src="assets/img/company/lg-logo.jpg" title="LG Electronics" width="180px"></a>
+<!-- <a href="https://www.etri.re.kr/"><img src="assets/img/company/etri-logo.jpg" title="ETRI" width="250px"></a> -->
+</div>
 
-## License
-
-Copyright (c) 2021 LG Electronics
-
-- 홈페이지 소스코드는 Open Source License인 [GPL-3.0](LICNESE.md)하에 배포되고 있습니다.
-- Feature 내 이미지 : by [Icons8](https://icons8.com/icon).
-
-Original theme
-
-- 원본 jekyll theme : [Hydejack](https://github.com/hydecorp/hydejack).
-- 참조 : [LICENSE](LICENSE.md), [NOTICE](NOTICE.md).
+<br/>
+<br/>
+<br/>
