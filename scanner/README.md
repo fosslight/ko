@@ -77,17 +77,13 @@ FOSSLight Scanner 프로젝트는 다른 오픈 소스 프로젝트를 **상속*
 
 ## Scanner Projects
 
-- **FOSSLight Source Scanner** : [https://github.com/fosslight/fosslight_source_scanner](https://github.com/fosslight/fosslight_source_scanner)
-- **FOSSLight Dependency Scanner** : [https://github.com/fosslight/fosslight_dependency_scanner](https://github.com/fosslight/fosslight_dependency_scanner)
+- [**FOSSLight Source Scanner**](https://github.com/fosslight/fosslight_source_scanner) (License: [**Apache-2.0**](https://github.com/fosslight/fosslight_source_scanner/blob/main/LICENSE))
+- [**FOSSLight Dependency Scanner**](https://github.com/fosslight/fosslight_dependency_scanner) (License: [**Apache-2.0**](https://github.com/fosslight/fosslight_dependency_scanner/blob/main/LICENSE))
+- [**FOSSLight Reuse**](https://github.com/fosslight/fosslight_reuse) (License: [**GPL-3.0-only**](https://github.com/fosslight/fosslight_reuse/blob/main/LICENSE))
 
 - 곧 release 예정 프로젝트 목록
   - FOSSLight Binary Scanner
-  - FOSSLight REUSE
   - FOSSLight Scanner
-
-## License
-
-FOSSLight Scanner 프로젝트들은 Open Source License인 [**Apache-2.0 License**](https://github.com/fosslight/fosslight_source/blob/main/LICENSE)하에 배포되고 있습니다.
 
 <br/>
 <br/>
