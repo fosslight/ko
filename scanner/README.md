@@ -74,6 +74,7 @@ FOSSLight Scanner 프로젝트는 다른 오픈 소스 프로젝트를 **상속*
   - Gradle : **[License Gradle Plugin](https://github.com/hierynomus/license-gradle-plugin)**
   - Maven : **[license-maven-plugin](https://github.com/mojohaus/license-maven-plugin)**
   - Pub : **[flutter_oss_licenses](https://github.com/espresso3389/flutter_oss_licenses)**
+  - Android(gradle) : **[android-dependency-scanning](https://github.com/fosslight/android-dependency-scanning)**
 
 ## Scanner Projects
 
