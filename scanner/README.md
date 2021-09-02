@@ -13,9 +13,9 @@ permalink: /scanner/
 
 ## Introduction
 
-![](../assets/img/fosslight_scanner.jpg)
+![](../assets/img/fosslight_scanner.png)
 
-FOSSLight Scanner는 Open Source Compliance를 위한 분석 과정을 한번에 수행 가능한 툴입니다. 소스코드, 바이너리, 디펜던시에 대한 Open Source 분석을 수행하고, 저작권/License 표기 규칙 준수 여부를 체크할 수 있습니다.
+FOSSLight Scanner는 Open Source Compliance를 위한 분석 과정을 한번에 수행 가능한 툴입니다. 소스코드, 바이너리, 디펜던시에 대한 Open Source 분석을 수행하고, 저작권/License 표기 규칙 준수 여부를 체크할 수 있습니다. Open Source 분석 수행시, 추출 가능한 오픈 소스 정보를 포함한 보고서를 생성하며, 해당 보고서는 [FOSSLight Hub](/fosslight)에서 오픈 소스 분석 결과서로 활용하실 수 있습니다.
 
 ## Features
 
@@ -74,6 +74,7 @@ FOSSLight Scanner 프로젝트는 다른 오픈 소스 프로젝트를 **상속*
   - Gradle : **[License Gradle Plugin](https://github.com/hierynomus/license-gradle-plugin)**
   - Maven : **[license-maven-plugin](https://github.com/mojohaus/license-maven-plugin)**
   - Pub : **[flutter_oss_licenses](https://github.com/espresso3389/flutter_oss_licenses)**
+  - Android(gradle) : **[android-dependency-scanning](https://github.com/fosslight/android-dependency-scanning)**
 
 ## Scanner Projects
 

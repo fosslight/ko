@@ -24,11 +24,11 @@ title: FOSSLight
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description: >
-  오픈 소스 컴플라이언스 관리를 위한 오픈 소스 프로젝트
+  Open Source Governance with FOSSLight
 
 # A shorter description for the sidebar.
 tagline: >
-  오픈 소스 컴플라이언스 관리를 위한 오픈 소스 프로젝트
+  Open Source Governance with FOSSLight
 
 # A list of keywords for your blog
 keywords: []
@@ -47,15 +47,15 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title: FOSSLight
+  - title: HUB
     url: /fosslight/
-  - title: Scanner
+  - title: SCANNER
     url: /scanner/
-  - title: Guide
+  - title: GUIDE
     url: https://fosslight.github.io/fosslight-guide/
-  - title: Demo
+  - title: DEMO
     url: /demo/
-  - title: News
+  - title: NEWS
     url: /news/
 
 # Add links to the footer.

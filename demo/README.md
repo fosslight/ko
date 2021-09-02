@@ -6,9 +6,9 @@ sitemap: false
 permalink: /demo/
 ---
 
-## FOSSLight Demo
+## FOSSLight Hub Demo
 
-미리 FOSSLight의 여러 기능들을 체험해볼 수 있도록 [Demo 사이트](https://demo.fosslight.org/)를 운영하고 있습니다.
+미리 FOSSLight Hub의 여러 기능들을 체험해볼 수 있도록 [Demo 사이트](https://demo.fosslight.org/)를 운영하고 있습니다.
 Demo 사이트를 방문하셔서 FOSSLight을 직접 이용해 보시기 바랍니다!
 
 ### 0) Demo URL
