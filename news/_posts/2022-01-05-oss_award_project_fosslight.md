@@ -10,5 +10,5 @@ hide_last_modified: true
 
 ![](../../assets/img/news/FOSSLight_oss_award_project.jpg)
 
-- 제 19차 동북아 공개SW활성화포럼 발표 영상 01:52:00 (중국어,일본어 버전 제공) : https://live.csdn.net/room/Hansen666666/bzbmxWjv
-  - 타임테이블 참조 : https://www.oss.kr/event/show/f44e68b5-c8e3-48f1-8ec7-cdfc94e3b1e3
+- 제 19차 동북아 공개SW활성화포럼 발표 영상 01:52:00 : [https://live.csdn.net/room/Hansen666666/bzbmxWjv]()
+  - 타임테이블 : [https://www.oss.kr/event/show/f44e68b5-c8e3-48f1-8ec7-cdfc94e3b1e3]()
