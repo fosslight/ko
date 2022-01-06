@@ -6,7 +6,7 @@ description: >
 hide_last_modified: true
 ---
 
-제 19차 동북아 공개SW활성화포럼에서 'FOSSLight으로 완성하는 Open Source Governance'를 주제로 FOSSLight가 소개되었습니다. 해당 발표 영상은 중국어 및 일본어 자막으로 제공되고 있으니 참고하시기 바랍니다. 또한 CJK(China, Japan & Korea) OSS Award 운영 위원회로부터 15th OSS Award Project상을 수상하였습니다. 많은 축하 부탁드립니다~ 🎊🎉
+제 19차 [동북아 공개SW활성화포럼](https://www.oss.kr/nea_forum)에서 'FOSSLight으로 완성하는 Open Source Governance'를 주제로 FOSSLight가 소개되었습니다. 해당 발표 영상은 중국어 및 일본어 자막으로 제공되고 있으니 참고하시기 바랍니다. 또한 본 행사에서 15th OSS Award Project상을 수상하였습니다. 많은 축하 부탁드립니다~ 🎊🎉
 
 ![](../../assets/img/news/FOSSLight_oss_award_project.jpg)
 
