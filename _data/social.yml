@@ -208,10 +208,10 @@ download:
   icon: icon-box-add
 korean:
   name: Korean
-  icon: icon-language
+  icon: icon-kor
 english:
   name: English
-  icon: icon-language
+  icon: icon-eng
 slack:
   name: Slack
   icon: icon-slack
