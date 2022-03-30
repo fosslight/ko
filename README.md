@@ -1,7 +1,7 @@
 ---
 layout: base
 hide_image: false
-cover: true
+cover: false
 permalink: /
 ---
 <div style="text-align: center;">
