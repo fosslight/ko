@@ -26,6 +26,7 @@ permalink: /
 <h2 style="color: rgb(191, 13, 63); text-align: center;">Companies and Organizations Using FOSSLight</h2>
 <a href="https://www.lg.co.kr/"><img src="assets/img/company/lg-logo.jpg" title="LG Electronics" width="180px" style="margin:0px 50px;"></a>
 <a href="https://www.etri.re.kr/"><img src="assets/img/company/etri-logo.jpg" title="ETRI" width="250px"></a>
+<a href="https://engineering.linecorp.com/ko/"><img src="assets/img/company/line-logo.png" title="LINE" width="150px"></a>
 </div>
 
 <br/>
