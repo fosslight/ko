@@ -18,49 +18,7 @@ OSC Process에 대한 더욱 자세한 정보는 **OSC Process 가이드**(<a hr
 
 ## Features
 
-<div class="flex-container">
-  <div class="flex-contents">
-    <div>
-      <div id="feature_title">
-        Compliance Workflow
-      </div>
-      <div id="feature_img">
-        <img src="https://img.icons8.com/pastel-glyph/50/000000/workflow-cycle--v1.png"/>
-      </div>
-      <div id="feature_content">
-        Open Source Compliance를<br>위한 Workflow를 수행합니다.
-      </div>
-    </div>
-  </div>
-
-  <div class="flex-contents">
-    <div>
-      <div id="feature_title">
-        Compliance Hub
-      </div>
-      <div id="feature_img">
-        <img src="https://img.icons8.com/wired/64/000000/hub.png"/>
-      </div>
-      <div id="feature_content">
-        License, 오픈소스,<br>보안취약점 등 Open Source Compliance를 위한<br>모든 것을 관리할 수 있습니다.
-      </div>
-    </div>
-  </div>
-
-  <div class="flex-contents">
-    <div>
-      <div id="feature_title">
-        Scalability
-      </div>
-      <div id="feature_img">
-        <img src="https://img.icons8.com/wired/64/000000/plugin.png"/>
-      </div>
-      <div id="feature_content">
-        FOSSLight Scanner나<br>다른 Plugin을 통해<br>추가 기능을 확장할 수 있습니다.
-      </div>
-    </div>
-  </div>
-</div>
+<img src="../assets/img/feature_kor.png" alt="Features"><br>
 
 ## Documentation
 
