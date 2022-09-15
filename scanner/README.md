@@ -67,6 +67,7 @@ FOSSLight Scanner는 Open Source Compliance를 위한 분석 과정을 한번에
 
 FOSSLight Scanner 프로젝트는 다른 오픈 소스 프로젝트를 **상속**합니다.
 
+- FOSSLight Prechecker는 Reuse 준수 여부 체크시 **[reuse-tool](https://github.com/fsfe/reuse-tool)** 오픈 소스를 이용합니다.
 - FOSSLight Source Scanner는 소스코드 스캔 작업을 위해 **[scancode-toolkit](https://github.com/nexB/scancode-toolkit)** 및 **[scanoss.py](https://github.com/scanoss/scanoss.py)** 오픈 소스를 이용합니다.
 - FOSSLight Dependency Scanner는 Package manager에 따라 다음 오픈소스를 이용하여 디펜던시 분석을 수행합니다.
   - NPM : **[NPM License Checker](https://github.com/davglass/license-checker)**
@@ -75,14 +76,15 @@ FOSSLight Scanner 프로젝트는 다른 오픈 소스 프로젝트를 **상속*
   - Maven : **[license-maven-plugin](https://github.com/mojohaus/license-maven-plugin)**
   - Pub : **[flutter_oss_licenses](https://github.com/espresso3389/flutter_oss_licenses)**
   - Android(gradle) : **[android-dependency-scanning](https://github.com/fosslight/android-dependency-scanning)**
+- FOSSLight Binary Scanner는 jar 파일에 대한 오픈 소스 분석 시, **[Dependency-check-py](https://github.com/jhermann/dependency-check-py)** 오픈 소스를 이용합니다.
 
 ## Scanner Projects
 
+- [**FOSSLight Scanner**](https://github.com/fosslight/fosslight_scanner) (License: [**Apache-2.0**](https://github.com/fosslight/fosslight_scanner/blob/main/LICENSE))
+- [**FOSSLight Prechecker**](https://github.com/fosslight/fosslight_prechecker) (License: [**GPL-3.0-only**](https://github.com/fosslight/fosslight_prechecker/tree/main/LICENSES))
 - [**FOSSLight Source Scanner**](https://github.com/fosslight/fosslight_source_scanner) (License: [**Apache-2.0**](https://github.com/fosslight/fosslight_source_scanner/blob/main/LICENSE))
 - [**FOSSLight Dependency Scanner**](https://github.com/fosslight/fosslight_dependency_scanner) (License: [**Apache-2.0**](https://github.com/fosslight/fosslight_dependency_scanner/blob/main/LICENSE))
-- [**FOSSLight Reuse**](https://github.com/fosslight/fosslight_reuse) (License: [**GPL-3.0-only**](https://github.com/fosslight/fosslight_reuse/blob/main/LICENSE))
 - [**FOSSLight Binary Scanner**](https://github.com/fosslight/fosslight_binary_scanner) (License: [**Apache-2.0**](https://github.com/fosslight/fosslight_binary_scanner/blob/main/LICENSE))
-- [**FOSSLight Scanner**](https://github.com/fosslight/fosslight_scanner) (License: [**Apache-2.0**](https://github.com/fosslight/fosslight_scanner/blob/main/LICENSE))
 
 <br/>
 <br/>
