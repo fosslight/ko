@@ -14,7 +14,7 @@ permalink: /fosslight/
 <img src="../assets/img/fosslight_hub.png" alt="FOSSLight Hub"><br>
 FOSSLight Hub는 오픈 소스, 오픈 소스 라이선스, 그리고 보안취약점까지 관리해줌으로써 오픈 소스 소프트웨어 사용 시 Compliance를 준수하고 보안취약점으로부터 안전하게 사용할 수 있습니다. 또한 프로젝트 별 BOM 관리, 오픈 소스 라이선스의 의무사항 및 보안취약점 조회 기능을 제공하여 OSC(Open Source Compliance) Process를 수행할 수 있도록 도와줍니다.
 
-OSC Process에 대한 더욱 자세한 정보는 **OSC Process 가이드**(<a href="https://oss.lge.com/guide-ko/process/osc_process/"><b>https://oss.lge.com/guide-ko/process/osc_process/</b></a>)를 참조하시기 바랍니다.
+OSC Process에 대한 더욱 자세한 정보는 **OSC Process 가이드**(<a href="https://oss.lge.com/guide-ko/process/osc_process/"><b>https://opensource.lge.com/guide/10</b></a>)를 참조하시기 바랍니다.
 
 ## Features
 
