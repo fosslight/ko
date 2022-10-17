@@ -2,7 +2,7 @@
 layout: post
 title: 2022 오픈소스 컨트리뷰션 아카데미 수상
 description: >
-  2022 오픈소스 컨트리뷰션 아카데미에서 FOSSLight이 장려상을 수상하였습니다.
+  2022 오픈소스 컨트리뷰션 아카데미에서 FOSSLight이 수상하였습니다.
 hide_last_modified: true
 ---
 
