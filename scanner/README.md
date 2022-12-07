@@ -18,46 +18,38 @@ permalink: /scanner/
 FOSSLight Scanner는 Open Source Compliance를 위한 분석 과정을 한번에 수행 가능한 툴입니다. 소스코드, 바이너리, 디펜던시에 대한 Open Source 분석을 수행하고, 저작권/License 표기 규칙 준수 여부를 체크할 수 있습니다. Open Source 분석 수행시, 추출 가능한 오픈 소스 정보를 포함한 보고서를 생성하며, 해당 보고서는 [FOSSLight Hub](/fosslight)의 입력 값으로 활용할 수 있습니다.
 
 ## Features
-
-<div class="flex-container">
-  <div class="flex-contents">
-    <div>
-      <div id="feature_title">
-        Inclusive Scanning
+<div class="row">
+  <div class="column">
+    <div class="feature_card">
+      <div class="icon-wrapper">
+        <i class="fa-solid fa-magnifying-glass"></i>
       </div>
-      <div id="feature_img">
-        <img src="https://img.icons8.com/dotty/80/000000/check-all.png"/>
-      </div>
-      <div id="feature_content">
-        소스코드, 바이너리<br>그리고 디펜던시 분석까지<br>수행할 수 있습니다.
+      <h3>오픈소스 분석<br>정확도 향상</h3>
+      <div class="feature_content">
+        <p>소스코드 문자열 검출 및 스니펫 매칭을 지원하며, 다양한 패키지 매니저에 대한 디펜던시 분석뿐만 아니라 바이너리 분석까지 지원하여 오픈소스 분석 정확도를 높일 수 있습니다.
+        </p>
       </div>
     </div>
   </div>
-
-  <div class="flex-contents">
-    <div>
-      <div id="feature_title">
-        Integrated One
+  <div class="column">
+    <div class="feature_card">
+      <div class="icon-wrapper">
+        <i class="fas fa-gears"></i>
       </div>
-      <div id="feature_img">
-        <img src="https://img.icons8.com/wired/64/000000/workspace-one.png"/>
-      </div>
-      <div id="feature_content">
-        하나로 통합된 패키지로<br>단 한줄의 명령어로<br>실행 가능합니다.
+      <h3>독립 모듈을 통한 <br>빠른 실행 속도</h3>
+      <div class="feature_content">
+        <p>각 스캐너는 독립적으로 실행 가능함으로써, 원하는 스캔(ex, 소스코드, 바이너리, 디펜던시) 대상에 대해서만 빠르고 가볍게 실행할 수 있습니다.</p>
       </div>
     </div>
   </div>
-
-  <div class="flex-contents">
-    <div>
-      <div id="feature_title">
-        Independent Module
+  <div class="column">
+    <div class="feature_card">
+      <div class="icon-wrapper">
+        <i class="fa-solid fa-share-nodes"></i>
       </div>
-      <div id="feature_img">
-        <img src="https://img.icons8.com/dotty/80/000000/module.png"/>
-      </div>
-      <div id="feature_content">
-        스캐너 모듈은 독립적으로,<br>가볍게 사용할 수 있습니다.
+      <h3>Hub 연동을 통한 기능 확장</h3>
+      <div class="feature_content">
+        <p>스캐너 결과 파일은 Hub에서 바로 이용 가능함으로써, Hub를 통한 오픈소스 정보 통합 관리 및 SBOM 지원 기능을 이용할 수 있습니다.</p>
       </div>
     </div>
   </div>
