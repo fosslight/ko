@@ -24,9 +24,11 @@ permalink: /
 <br/>
 <hr style="width:100%; border:outset 1px rgb(191, 13, 63);">
 <h2 style="color: rgb(191, 13, 63); text-align: center;">Companies and Organizations Using FOSSLight</h2>
-<a href="https://www.lg.co.kr/"><img src="assets/img/company/lg-logo.jpg" title="LG Electronics" width="180px" style="margin:0px 5px;"></a>
-<a href="https://www.etri.re.kr/"><img src="assets/img/company/etri-logo.jpg" title="ETRI" width="250px" style="margin:0px 25px;"></a>
-<a href="https://engineering.linecorp.com/ko/"><img src="assets/img/company/line-logo.png" title="LINE" width="150px"></a>
+<a href="https://www.lg.co.kr/"><img src="assets/img/company/lg-logo.jpg" title="LG Electronics" width="180px" style="margin:5px px;"></a>
+<a href="https://www.etri.re.kr/"><img src="assets/img/company/etri-logo.jpg" title="ETRI" width="250px" style="margin:0px 15px;"></a>
+<br>
+<a href="https://engineering.linecorp.com/ko"><img src="assets/img/company/line-logo.png" title="LINE" width="150px" style="margin:10px 30px;"></a>
+<a href="https://www.hyundai-autoever.com/kor/main/index.do"><img src="assets/img/company/hyundaiautoeve-logo.png" title="Hyundai AutoEver" width="150px" style="margin:0px 15px;"></a>
 </div>
 
 <br/>
