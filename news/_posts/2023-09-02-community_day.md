@@ -6,7 +6,7 @@ description: >
 hide_last_modified: true
 ---
 
-2023.09.02일 14:00PM 제 1회 FOSSLight Community Day가 개최되었습니다. FOSSLight Hub를 개발 및 운영할 때, 알아두면 좋은 지식을 공유하는 자리를 가졌습니다.     
+2023.09.02일 14:00PM 제 1회 FOSSLight Community Day가 개최되었습니다. FOSSLight Hub를 개발 및 운영할 때, 알아두면 좋은 지식을 공유하는 자리를 가졌습니다. 이번 FOSSLight Community Day는 주로 FOSSLight Hub 운영 및 기여자 대상으로 오픈업 빌딩에서 진행되었습니다.
   
  ![](../../assets/img/news/230902/230902_fosslight_comm_day_3.jpg)
  ![](../../assets/img/news/230902/230902_fosslight_comm_day_1.jpg)
@@ -25,3 +25,6 @@ hide_last_modified: true
 - [백엔드 개발자가 가져야할 기본적인 클라우드 지식 - 지승민](../../assets/files/Gseungmin.pptx)
 - [NVD 보안취약점 딥다이브 - 김명현](../../assets/files/MyunghyunNero.pptx)
 - [오픈소스를 여행하는 히치하이커를 위한 안내서 - 한종우](../../assets/files/JongwooHan.pdf)
+        
+
+후원 : Nipa 정보통신산업진흥원
