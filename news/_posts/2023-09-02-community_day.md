@@ -6,7 +6,8 @@ description: >
 hide_last_modified: true
 ---
 
-2023.09.02일 14:00PM 제 1회 FOSSLight Community Day가 개최되었습니다. FOSSLight Hub를 개발 및 운영할 때, 알아두면 좋은 지식을 공유하는 자리를 가졌습니다. 이번 FOSSLight Community Day는 주로 FOSSLight Hub 운영 및 기여자 대상으로 오픈업 빌딩에서 진행되었습니다.
+2023.09.02일 14:00PM 제 1회 FOSSLight Community Day가 개최되었습니다.   
+이번 FOSSLight Community Day는 주로 FOSSLight Hub 운영 및 기여자 대상으로 오픈업 빌딩에서 진행되었습니다. FOSSLight Hub를 개발 및 운영할 때, 알아두면 좋은 지식을 공유하였습니다.
   
  ![](../../assets/img/news/230902/230902_fosslight_comm_day_3.jpg)
  ![](../../assets/img/news/230902/230902_fosslight_comm_day_1.jpg)
