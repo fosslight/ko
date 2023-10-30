@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FOSSLight Community Day
+title: 1st FOSSLight Community Day
 description: >
   2023.09.02 FOSSLight Community Day가 개최되었습니다. 
 hide_last_modified: true
