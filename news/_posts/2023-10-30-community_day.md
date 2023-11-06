@@ -18,6 +18,6 @@ FOSSLight Community Day 발표자 신청
 - 신청 결과 안내 : 2023.11.13 (개별 안내 예정)
 - FOSSLight Community Day 발표 신청하기 : [https://forms.gle/kdTDwYRK1DZAZG8o6](https://forms.gle/kdTDwYRK1DZAZG8o6)
 
-![](../../assets/img/news/FL_DAY_2.jpg)
+![](../../assets/img/news/FL_DAY_2_logo.jpg)
 
 
