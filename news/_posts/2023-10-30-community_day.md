@@ -37,4 +37,4 @@ hide_last_modified: true
 
 ## Event!
 사전 등록하신 분에 한하여 참석 선물을 드립니다. (선착순 40명)       
-![](../../assets/img/news/FL_day_2_gift.png){: width="30" height="100"}
+![](../../assets/img/news/FL_day_2_gift.png){: width="150" height="150"}
