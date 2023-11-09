@@ -22,7 +22,7 @@ hide_last_modified: true
 
 ## Agenda (미확정)
 |No|제목|설명|발표자|
-|--|----|-----|-----|
+|:--- | --- |--- | --- |  
 |1|오프닝||[Shane Coughlan](https://www.linkedin.com/in/shanecoughlan/?originalSubdomain=jp)(The Linux Foundation)|
 |2|FOSSLight Hub 설치 및 실행 가이드||민경선(LG전자)|
 |3|FOSSLight Scanner 설치 및 실행 가이드||[박원재](https://www.linkedin.com/in/wonjae-park/)(LG전자)|
