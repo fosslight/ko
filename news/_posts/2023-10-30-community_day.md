@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 2nd FOSSLight Community Day
+title: 2nd FOSSLight Community Day 예고
 description: >
   2023.11.30 제2회 FOSSLight Community Day가 열립니다.
 hide_last_modified: true
 ---
 
-## 제2회 FOSSLight Community Day 개최
+## 제2회 FOSSLight Community Day 예고
 
 ### 사전 등록
 아래 FOSSLight Community Day 사전 등록 링크를 통해 참여 신청 부탁드립니다!!
