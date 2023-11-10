@@ -21,6 +21,9 @@ hide_last_modified: true
 ![](../../assets/img/news/FL_DAY_2_logo.jpg)
 
 ## Agenda (미확정)
+
+<div class="datatable-begin"></div>
+
 |No|제목|설명|발표자|
 |--- | --- |--- | --- |  
 |1|오프닝||[Shane Coughlan](https://www.linkedin.com/in/shanecoughlan/?originalSubdomain=jp)(The Linux Foundation)|
@@ -32,10 +35,7 @@ hide_last_modified: true
 |7|FOSSLight 23년 업데이트|Security 탭, DEP 탭등 새롭게 추가된 기능을 소개합니다.|석지영(LG전자)|
 |8|FOSSLight 로드맵||[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
 
-
-|No|제목|설명|발표자|
-|--- | --- |--- | --- |  
-|1|test|test|test|
+<div class="datatable-end"></div>
 
 ## Event!
 사전 등록하신 분에 한하여 참석 선물을 드립니다. (선착순 40명)       
