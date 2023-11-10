@@ -22,7 +22,7 @@ hide_last_modified: true
 
 ## Agenda (미확정)
 |No|제목|설명|발표자|
-|:--- | --- |--- | --- |  
+|--- | --- |--- | --- |  
 |1|오프닝||[Shane Coughlan](https://www.linkedin.com/in/shanecoughlan/?originalSubdomain=jp)(The Linux Foundation)|
 |2|FOSSLight Hub 설치 및 실행 가이드||민경선(LG전자)|
 |3|FOSSLight Scanner 설치 및 실행 가이드||[박원재](https://www.linkedin.com/in/wonjae-park/)(LG전자)|
@@ -31,6 +31,11 @@ hide_last_modified: true
 |6|FOSSLight Hub ERD 소개||윤성원(씽크트리)|
 |7|FOSSLight 23년 업데이트|Security 탭, DEP 탭등 새롭게 추가된 기능을 소개합니다.|석지영(LG전자)|
 |8|FOSSLight 로드맵||[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
+
+
+|No|제목|설명|발표자|
+|--- | --- |--- | --- |  
+|1|test|test|test|
 
 ## Event!
 사전 등록하신 분에 한하여 참석 선물을 드립니다. (선착순 40명)       
