@@ -6,7 +6,7 @@ description: >
 hide_last_modified: true
 ---
 
-## 제2회 FOSSLight Community Day 예고
+## 2nd FOSSLight Community Day 예고
 
 ### 사전 등록
 아래 FOSSLight Community Day 사전 등록 링크를 통해 참여 신청 부탁드립니다!!
