@@ -25,7 +25,7 @@ hide_last_modified: true
 |Time|제목|설명|발표자|
 |--- | --- |--- | --- |  
 |13:40 ~ 14:00|행사 등록| ||
-|14:00 ~ 14:15|Keynote|리눅스 파운데이션의 Shane Coughlan의 오프닝! 온라인이 아닌 현장으로 모셨습니다. |[Shane Coughlan](https://www.linkedin.com/in/shanecoughlan/?originalSubdomain=jp)(The Linux Foundation)|
+|14:00 ~ 14:15|Keynote|리눅스 파운데이션 Shane Coughlan의 Keynote! 온라인이 아닌 현장으로 모셨습니다. Keynote by Shane Coughlan of Linux Foundation! Shane plans to participate directly offline rather than online.|[Shane Coughlan](https://www.linkedin.com/in/shanecoughlan/?originalSubdomain=jp)(The Linux Foundation)|
 |14:15 ~ 14:45|FOSSLight Hub for 뉴비|FOSSLight Hub 운영을 위한 설치 및 실행, 업데이트 방법을 소개합니다.|민경선(LG전자)|
 |14:45 ~ 15:15|FOSSLight Scanner for 뉴비|FOSSLight Scanner의 구성 요소를 소개하고 실행하는 방법을 소개합니다.|석지영(LG전자)|
 |15:15 ~ 15:30|Coffee break| ||
