@@ -24,15 +24,16 @@ hide_last_modified: true
 
 |Time|제목|설명|발표자|
 |--- | --- |--- | --- |  
-|14:00 ~ 14:15|오프닝|리눅스 파운데이션의 Shane Coughlan의 오프닝! 온라인이 아닌 현장으로 모셨습니다. |[Shane Coughlan](https://www.linkedin.com/in/shanecoughlan/?originalSubdomain=jp)(The Linux Foundation)|
-|14:15 ~ 14:45|FOSSLight Hub 설치 및 실행 가이드|FOSSLight Hub 운영을 위한 설치 및 실행, 업데이트 방법을 소개합니다.|민경선(LG전자)|
-|14:45 ~ 15:15|FOSSLight Scanner 소개 및 시연|FOSSLight Scanner의 구성 요소를 소개하고 실행하는 방법을 소개합니다.|석지영(LG전자)|
+|13:40 ~ 14:00|행사 등록| ||
+|14:00 ~ 14:15|Keynote|리눅스 파운데이션의 Shane Coughlan의 오프닝! 온라인이 아닌 현장으로 모셨습니다. |[Shane Coughlan](https://www.linkedin.com/in/shanecoughlan/?originalSubdomain=jp)(The Linux Foundation)|
+|14:15 ~ 14:45|FOSSLight Hub for 뉴비|FOSSLight Hub 운영을 위한 설치 및 실행, 업데이트 방법을 소개합니다.|민경선(LG전자)|
+|14:45 ~ 15:15|FOSSLight Scanner for 뉴비|FOSSLight Scanner의 구성 요소를 소개하고 실행하는 방법을 소개합니다.|석지영(LG전자)|
 |15:15 ~ 15:30| 휴식 | ||
 |15:30 ~ 15:50|OLA: FOSSLight 기반 ETRI 오픈 소스 관리 시스템|ETRI는 오픈소스 리스크를 인식하여 라이선스 검증 프로세스를 운영하고 있었는데, 점점 검증량이 많아지면서 자동화가 필요하게 되었습니다. 이에 공개된 FOSSLight를 기반으로 ETRI에 맞는 시스템을 구축하여 활용 중입니다. 본 발표에서는 FOSSLight 기반 ETRI 오픈소스 관리 시스템인 OLA에 대해 소개합니다.|박정숙(ETRI)|
-|15:50 ~ 16:05|FOSSLight Hub Hidden Menu|FOSSLight Hub 사용자라면 알아두면 좋은 숨겨진 기능을 소개합니다.|[김소임](https://www.linkedin.com/in/soim-kim-093036216/)(LG전자)|
+|15:50 ~ 16:05|고수들의 FOSSLight Hub 사용법|FOSSLight Hub 사용자라면 알아두면 좋은 꿀팁을 소개합니다.|[김소임](https://www.linkedin.com/in/soim-kim-093036216/)(LG전자)|
 |16:05 ~ 16:15| 휴식 | ||
 |16:15 ~ 16:35|FOSSLight Hub ERD 소개|FOSSLight Hub 개발을 위해 알아두면 좋은 ERD(Entity Relationship Diagram)을 소개합니다 |윤성원(씽크트리)|
-|16:35 ~ 17:00|FOSSLight 23년 업데이트 및 로드맵|Security 탭, DEP 탭등 새롭게 추가된 기능을 소개합니다.|[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
+|16:35 ~ 17:00|FOSSLight 현재와 미래 개봉박두|SBOM 지원을 위해 새롭게 추가된 기능을 소개하고 24년 로드맵을 짜잔 공개합니다.|[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
 
 
 <div class="datatable-end"></div>
