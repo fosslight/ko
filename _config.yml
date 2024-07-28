@@ -51,7 +51,9 @@ menu:
     url: /fosslight/
   - title: SCANNER
     url: /scanner/
-  - title: GUIDE
+  - title: HUB GUIDE
+    url: https://fosslight.github.io/hub-guide/
+  - title: SCANNER GUIDE
     url: https://fosslight.github.io/fosslight-guide/
   - title: DEMO
     url: /demo/
