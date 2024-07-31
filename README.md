@@ -30,6 +30,7 @@ permalink: /
 <a href="https://engineering.linecorp.com/ko"><img src="assets/img/company/line-logo.png" title="LINE" width="150px" style="margin:10px 30px;"></a>
 <a href="https://www.hyundai-autoever.com/kor/main/index.do"><img src="assets/img/company/hyundaiautoeve-logo.png" title="Hyundai AutoEver" width="150px" style="margin:0px 15px;"></a>
 <a href="https://www.kakaobank.com/"><img src="assets/img/company/kakaobank.png" title="kakaobank" width="250px" style="margin:0px 15px;"></a>
+<a href="https://www.hancom.com/main/main.do"><img src="assets/img/company/HANCOM_Logo.png" title="Hancom" width="250px" style="margin:0px 15px;"></a>
 </div>
 
 <br/>
