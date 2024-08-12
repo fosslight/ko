@@ -13,7 +13,7 @@ permalink: /scanner/
 
 ## Introduction
 
-![](../assets/img/fosslight_scanner.png)
+![](../assets/img/fosslight_scanner_overview.png){: width="80%" .center}
 
 FOSSLight Scanner는 Open Source Compliance를 위한 분석 과정을 한번에 수행 가능한 툴입니다. 소스코드, 바이너리, 디펜던시에 대한 Open Source 분석을 수행하고, 저작권/License 표기 규칙 준수 여부를 체크할 수 있습니다. Open Source 분석 수행시, 추출 가능한 오픈 소스 정보를 포함한 보고서를 생성하며, 해당 보고서는 [FOSSLight Hub](/fosslight)의 입력 값으로 활용할 수 있습니다.
 
