@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FOSSLight, 2.0 가이드 유튜브 영상 공개
+title: FOSSLight 2.0 가이드 유튜브 영상 공개
 description: >
   FOSSLight 2.0 가이드가 Youtube에 공개되었습니다.
 hide_last_modified: true
