@@ -7,7 +7,7 @@ hide_last_modified: true
 ---
 
 ## 제3회 FOSSLight Community Day 예고
- - 일시 : 2024.11.12 화요일 10:00 ~ 16:50
+ - 일시 : 2024.11.12 화요일 10:00 ~ 17:00
  - 장소 : (TBD) 서초역 또는 강남역 부근 
  - FOSSLight Community Day 사전 등록 : 링크 제공 예정
 
@@ -24,12 +24,12 @@ hide_last_modified: true
 |13:40 ~ 14:10|FOSSLight 활용 사례|||
 |14:10 ~ 14:45|오소리||
 |14:45 ~ 15:00|Coffee break||
-|15:00 ~ 15:20|FOSSLight Hub v2.0| ||
-|15:20 ~ 15:50|FOSSLight Hub SBOM 및 보안취약점 관리||
-|15:50 ~ 16:10|FOSSLight Scanner v2.0||
-|16:10 ~ 16:20|Coffee break| ||
-|16:20 ~ 16:40|2024 컨트리뷰션 아카데미|||
-|16:40 ~ 16:50|FOSSLight 로드맵|||
+|15:00 ~ 15:25|FOSSLight Hub v2.0| ||
+|15:25 ~ 15:50|FOSSLight Hub SBOM 및 보안취약점 관리||
+|15:50 ~ 16:15|FOSSLight Scanner v2.0||
+|16:15 ~ 16:30|Coffee break| ||
+|16:30 ~ 16:50|2024 컨트리뷰션 아카데미|||
+|16:50 ~ 17:00|FOSSLight 로드맵|||
 
 <div class="datatable-end"></div>
 
