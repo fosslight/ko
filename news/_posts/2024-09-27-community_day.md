@@ -9,7 +9,7 @@ hide_last_modified: true
 ## 제3회 FOSSLight Community Day 예고
  - 일시 : 2024.11.12 화요일 10:00 ~ 17:00
  - 장소 : 서울 서초구 서초대로40길 83 우제빌딩 2층
- - FOSSLight Community Day 사전 등록 : https://forms.gle/ZTDuVZsN73frKyZc9
+ - FOSSLight Community Day 사전 등록 : [https://forms.gle/ZTDuVZsN73frKyZc9](https://forms.gle/ZTDuVZsN73frKyZc9)
 
 ### Agenda
 
