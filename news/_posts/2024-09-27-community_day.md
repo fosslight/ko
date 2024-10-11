@@ -29,7 +29,7 @@ hide_last_modified: true
 |15:40 ~ 16:10|FOSSLight Scanner v2.0|v2.0에서 추가된 기능, GUI Tool, VS Code extension을 소개합니다.|[김소임](https://www.linkedin.com/in/soim-kim-093036216/)(LG전자)|
 |16:10 ~ 16:25|Coffee break| ||
 |16:25 ~ 16:45|FOSSLight CI/CD 파이프라인 개선 및 사용자 경험 향상|FOSSLight 프로젝트의 배포 프로세스 자동화, 다양한 플랫폼에서의 사용성 개선 (VSCode, GUI, Docker), 테스트 코드 개선을 통한 품질 향상을 소개합니다.|[권순홍](https://velog.io/@nanayah99/posts)|
-|16:45 ~ 17:00|FOSSLight 로드맵||[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
+|16:45 ~ 17:00|FOSSLight 로드 맵을 위한 의견 수렴||[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
 
 <div class="datatable-end"></div>
 
