@@ -22,7 +22,7 @@ hide_last_modified: true
 - [오소리 데이터 사용 가이드 - 김영환(카카오)](../../assets/files/241112/OSORI_Kakao_Sean.pdf)
 - [FOSSLight Hub v2.0 - 이혜인(LG전자)](../../assets/files/241112/FL_Hub_2.0.pdf)
 - [FOSSLight Hub SBOM 및 보안취약점 관리 - 석지영(LG전자)](../../assets/files/241112/vulnerability_jy.pdf)
-- [FOSSLight Scanner v2.0 - 김소임(LG전자)](../../assets/files/241112_FOSSLight_Update_2.0.pdf)
+- [FOSSLight Scanner v2.0 - 김소임(LG전자)](../../assets/files/241112/FOSSLight_Update_2.0.pdf)
 - [FOSSLight CI/CD 파이프라인 개선 및 사용자 경험 향상 - 권순홍](../../assets/files/241112/KSH_final_ppt.pdf)
        
 
