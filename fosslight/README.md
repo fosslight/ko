@@ -22,7 +22,7 @@ OSC Process에 대한 더욱 자세한 정보는 <a href="https://opensource.lge
 
 ## Documentation
 
-설치 및 사용 방법에 대해서는 <a href="https://fosslight.github.io/fosslight-guide/"><b>FOSSLight 가이드</b></a>를 참조하시기 바랍니다.
+설치 및 사용 방법에 대해서는 <a href="https://fosslight.org/hub-guide/"><b>FOSSLight 가이드</b></a>를 참조하시기 바랍니다.
 
 ## Source Code
 
