@@ -12,7 +12,7 @@ hide_last_modified: true
      (참석자가 많으면 강남쪽으로 장소 변경 예정)
  - 점심 샌드위치 제공 
  - 오전/오후 세션 선택적 참석 가능
- - 참가 신청 링크 (~ 25/11/9까지): https://forms.gle/mHRRfqrkc3YoEevNA
+ - 참가 신청 링크 (~ 25/11/9까지): [https://forms.gle/mHRRfqrkc3YoEevNA](https://forms.gle/mHRRfqrkc3YoEevNA)
 
 ### Agenda
 * agenda는 일부 수정될 수 있습니다.
