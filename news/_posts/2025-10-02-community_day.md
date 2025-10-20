@@ -14,6 +14,8 @@ hide_last_modified: true
  - 오전/오후 세션 선택적 참석 가능
  - 참가 신청 링크 (~ 25/11/9까지): [https://forms.gle/mHRRfqrkc3YoEevNA](https://forms.gle/mHRRfqrkc3YoEevNA)
 
+![](../../assets/img/news/2510/25_fosslight_comm.png)
+
 ### Agenda
 * agenda는 일부 수정될 수 있습니다.
 
@@ -39,5 +41,3 @@ hide_last_modified: true
 
 ### Event 🎉
 11/9까지 사전 등록하시어 참가 선물과 점심 샌드위치 신청하세요🎁
-
-![](../../assets/img/news/2510/fosslight_251002.png)
