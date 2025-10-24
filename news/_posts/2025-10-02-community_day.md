@@ -21,21 +21,21 @@ hide_last_modified: true
 
 <div class="datatable-begin"></div>
 
-|Time|제목|설명|
-|--- | --- |--- |
-|09:50 ~ 10:00|행사 등록| | 
-|10:00 ~ 12:00|FOSSLight 사용 가이드|FOSSLight 입문자를 위한 FOSSLight Scanner & Hub 가이드|
-|12:00 ~ 13:30|점심 시간||
-|13:30 ~ 13:50|최신 Updates| 요즘 오픈 소스 세상 소식 및 FOSSLight 소식 |
-|13:50 ~ 14:10|** 회사의 FOSSLight 사용기| FOSSLight 도입 배경과 활용 계획 소개 (어떤 회사가 참여할지?!! 기대해주십시오~)|
-|14:10 ~ 14:30|Coffee break||
-|14:30 ~ 14:50|FOSSLight Hub v2.3.0| 새롭게 추가된 기능 그리고 숨겨진 기능을 공개합니다. |
-|14:50 ~ 15:15|FOSSLight Hub 리뷰 자동화| 당신의 시간을 절약해주는 리뷰 자동화 방법을 소개합니다. |
-|15:15 ~ 15:40|FOSSLight Hub 보안취약점 관리 - 고급편 |FOSSLight Hub에서 어떻게 오픈소스 보안취약점은 관리하는지 소개합니다.|
+|Time|제목|설명|발표자|
+|--- | --- |--- |--- |
+|09:50 ~ 10:00|행사 등록| |  | 
+|10:00 ~ 12:00|FOSSLight 사용 가이드|FOSSLight 입문자를 위한 FOSSLight Scanner & Hub 가이드| | 
+|12:00 ~ 13:30|점심 시간|| | 
+|13:30 ~ 13:50|최신 Updates| 요즘 오픈 소스 세상 소식 및 FOSSLight 소식 | | 
+|13:50 ~ 14:10|현대오토에버 Fosslight 도입 및 확장 사례| 오픈소스 관리도구 도입 과정, 확장 사례, 유용한 기능, 그룹 전파 계획!|현대오토에버 이지현| 
+|14:10 ~ 14:30|Coffee break|||
+|14:30 ~ 14:50|FOSSLight Hub v2.3.0| 새롭게 추가된 기능 그리고 숨겨진 기능을 공개합니다. ||
+|14:50 ~ 15:15|FOSSLight Hub 리뷰 자동화| 당신의 시간을 절약해주는 리뷰 자동화 방법을 소개합니다. ||
+|15:15 ~ 15:40|FOSSLight Hub 보안취약점 관리 - 고급편 |FOSSLight Hub에서 어떻게 오픈소스 보안취약점은 관리하는지 소개합니다.||
 |15:40 ~ 16:00|Coffee break| ||
-|16:00 ~ 16:25|FOSSLight Scanner 업데이트| 추가/개선된 기능을 소개합니다. |
-|16:25 ~ 16:45|FOSSLight Scanner Service|FOSSLight Scanner를 웹 서비스로 활용 사례를 소개합니다. (with AI 버튼)|
-|16:45 ~ 17:00|FOSSLight 실무에서 자동화세팅하기|FOSSLight를 활용한 실무 업무에 대한 자동화 세팅 방법 및 사례를 소개합니다.|
+|16:00 ~ 16:25|FOSSLight Scanner 업데이트| 추가/개선된 기능을 소개합니다. ||
+|16:25 ~ 16:45|FOSSLight Scanner Service|FOSSLight Scanner를 웹 서비스로 활용 사례를 소개합니다. (with AI 버튼)||
+|16:45 ~ 17:00|FOSSLight 실무에서 자동화세팅하기|FOSSLight를 활용한 실무 업무에 대한 자동화 세팅 방법 및 사례를 소개합니다.||
 
 <div class="datatable-end"></div>
 
