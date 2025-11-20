@@ -21,8 +21,10 @@ hide_last_modified: true
 |Time|제목|설명|발표자|
 |--- | --- |--- |--- |
 |09:50 ~ 10:00|행사 등록| |  | 
-|10:00 ~ 12:00|FOSSLight 사용 가이드|FOSSLight 입문자를 위한 FOSSLight Scanner & Hub 가이드|방재권(LG전자), 최혜성(LG전자)| 
-|12:00 ~ 13:30|점심 시간|| | 
+|10:00 ~ 10:50|FOSSLight Hub 사용 가이드|FOSSLight Hub 입문자를 위한 가이드|최혜성(LG전자)| 
+|10:50 ~ 11:10|쉬는 시간|||
+|11:10 ~ 11:50|FOSSLight Scanner 사용 가이드|FOSSLight Scanner 입문자를 위한 가이드|방재권(LG전자)| 
+|11:50 ~ 13:30|점심 시간|| 
 |13:30 ~ 13:35|오프닝|  | [김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)| 
 |13:35 ~ 14:05|최신 Updates| 요즘 오픈 소스 세상 소식 및 FOSSLight 소식 | [박원재](https://www.linkedin.com/in/wonjae-park/)(LG전자)| 
 |14:05 ~ 14:30|현대오토에버 FOSSLight 도입 및 확장 사례| 오픈소스 관리도구 도입 과정, 확장 사례, 유용한 기능, 그룹 전파 계획!|이지현(현대오토에버)| 
