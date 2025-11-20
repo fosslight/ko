@@ -33,7 +33,7 @@ hide_last_modified: true
 |15:45 ~ 16:00|Coffee break| ||
 |16:00 ~ 16:25|FOSSLight Hub를 활용한 공급망 보안체계 구축|  |[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
 |16:25 ~ 16:45|FOSSLight 실무 자동화 세팅 |자동화 세팅 사례를 공유합니다.|[김소임](https://www.linkedin.com/in/soim-kim-093036216/)(LG전자) |
-|16:45 ~ 15:00|클로징||
+|16:45 ~ 17:00|클로징||
 
 <div class="datatable-end"></div>
 
