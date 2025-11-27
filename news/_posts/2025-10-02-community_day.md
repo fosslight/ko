@@ -33,8 +33,8 @@ hide_last_modified: true
 |15:15 ~ 15:30|FOSSLight Hub 리뷰 자동화| 당신의 시간을 절약해주는 리뷰 자동화 방법을 소개합니다. |민경선(LG전자)|
 |15:30 ~ 15:50|FOSSLight Scanner Service |FOSSLight Scanner를 웹서비스로 제공하는 서비스 소개|이일용(LG전자)|
 |15:50 ~ 16:00|Coffee break| ||
-|16:00 ~ 16:30|FOSSLight Hub를 활용한 공급망 보안체계 구축|  |[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
-|16:30 ~ 16:45|FOSSLight 실무 자동화 세팅 |자동화 세팅 사례를 공유합니다.|[김소임](https://www.linkedin.com/in/soim-kim-093036216/)(LG전자) |
+|16:00 ~ 16:25|FOSSLight Hub를 활용한 공급망 보안체계 구축|  |[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
+|16:25 ~ 16:45|FOSSLight 실무 자동화 세팅 |자동화 세팅 사례를 공유합니다.|[김소임](https://www.linkedin.com/in/soim-kim-093036216/)(LG전자) |
 |16:45 ~ 17:00|클로징||
 
 <div class="datatable-end"></div>
