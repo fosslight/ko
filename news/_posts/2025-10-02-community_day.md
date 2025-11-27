@@ -27,14 +27,14 @@ hide_last_modified: true
 |11:50 ~ 13:30|점심 시간|| 
 |13:30 ~ 13:35|오프닝|  | [김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)| 
 |13:35 ~ 14:05|최신 Updates| 요즘 오픈 소스 세상 소식 및 FOSSLight 소식 | [박원재](https://www.linkedin.com/in/wonjae-park/)(LG전자)| 
-|14:05 ~ 14:30|현대오토에버 FOSSLight 도입 및 확장 사례| 오픈소스 관리도구 도입 과정, 확장 사례, 유용한 기능, 그룹 전파 계획!|이지현(현대오토에버)| 
-|14:30 ~ 14:40|Coffee break|||
-|14:40 ~ 15:00|FOSSLight Hub Updates| 새롭게 추가된 기능을 공개합니다. |석지영(LG전자)|
-|15:00 ~ 15:20|FOSSLight Hub 리뷰 자동화| 당신의 시간을 절약해주는 리뷰 자동화 방법을 소개합니다. |민경선(LG전자)|
-|15:20 ~ 15:45|FOSSLight Scanner Service |FOSSLight Scanner를 웹서비스로 제공하는 서비스 소개|이일용(LG전자)|
-|15:45 ~ 16:00|Coffee break| ||
-|16:00 ~ 16:25|FOSSLight Hub를 활용한 공급망 보안체계 구축|  |[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
-|16:25 ~ 16:45|FOSSLight 실무 자동화 세팅 |자동화 세팅 사례를 공유합니다.|[김소임](https://www.linkedin.com/in/soim-kim-093036216/)(LG전자) |
+|14:05 ~ 14:45|현대오토에버 FOSSLight 도입 및 확장 사례| 오픈소스 관리도구 도입 과정, 확장 사례, 유용한 기능, 그룹 전파 계획!|이지현(현대오토에버)| 
+|14:45 ~ 15:00|Coffee break|||
+|15:00 ~ 15:00|FOSSLight Hub Updates| 새롭게 추가된 기능을 공개합니다. |석지영(LG전자)|
+|15:15 ~ 15:35|FOSSLight Hub 리뷰 자동화| 당신의 시간을 절약해주는 리뷰 자동화 방법을 소개합니다. |민경선(LG전자)|
+|15:35 ~ 15:55|FOSSLight Scanner Service |FOSSLight Scanner를 웹서비스로 제공하는 서비스 소개|이일용(LG전자)|
+|15:55 ~ 16:05|Coffee break| ||
+|16:05 ~ 16:30|FOSSLight Hub를 활용한 공급망 보안체계 구축|  |[김경애](https://www.linkedin.com/in/kyoungae-kim-597a1630/)(LG전자)|
+|16:30 ~ 16:45|FOSSLight 실무 자동화 세팅 |자동화 세팅 사례를 공유합니다.|[김소임](https://www.linkedin.com/in/soim-kim-093036216/)(LG전자) |
 |16:45 ~ 17:00|클로징||
 
 <div class="datatable-end"></div>
