@@ -39,5 +39,7 @@ hide_last_modified: true
 
 <div class="datatable-end"></div>
 
+### 장소 후원 : Nipa 정보통신산업진흥원    
+
 ### Event 🎉
 11/9까지 사전 등록하시어 참가 선물과 점심 샌드위치 신청하세요🎁
