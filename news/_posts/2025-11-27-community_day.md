@@ -15,7 +15,7 @@ TBD
 - [FOSSLight Scanner 사용 가이드 - 방재권(LG전자)](../../assets/files/251127/251127_FOSSLight_Scanner.pdf)
 - [FOSSLight Hub 사용 가이드 - 최혜성(LG전자)](../../assets/files/251127/251127_FOSSLight_Hub_Guide.pdf)
 - [최신 업데이트 - 박원재(LG전자)](../../assets/files/251127/news_wonjae.pdf)
-- [현대오토에버 FOSSLight 도입 및 확장 사례 - 이지현(현대오토에버)](../../assets/files/251127/fosslight_autoever.pdf)
+- 현대오토에버 FOSSLight 도입 및 확장 사례 - 이지현(현대오토에버) TBD
 - [FOSSLight Hub Updates - 석지영(LG전자)](../../assets/files/251127/fl_hub_update_jiyeong.pdf)
 - [FOSSLight Hub 리뷰 자동화 - 민경선(LG전자)](../../assets/files/251127/autoreview_min.pdf)
 - [FOSSLight Scanner Service - 이일용(LG전자)](../../assets/files/251127/fl_scanner_service_lee.pdf)
