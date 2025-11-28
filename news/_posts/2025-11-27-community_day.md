@@ -26,4 +26,11 @@ TBD
 ### 장소 후원 : Nipa 정보통신산업진흥원    
 
 ### 사진
-TBD
+ ![](../../assets/img/news/251127/25_fl_bang.jpeg)
+ ![](../../assets/img/news/251127/25_fl_choi.jpeg)
+ ![](../../assets/img/news/251127/25_fl_hyun.jpeg)
+ ![](../../assets/img/news/251127/25_fl_park.jpeg)
+ ![](../../assets/img/news/251127/25_fl_seok.jpeg)
+ ![](../../assets/img/news/251127/25_fl_min.jpeg)
+ ![](../../assets/img/news/251127/25_fl_lee.jpeg)
+ ![](../../assets/img/news/251127/25_fl_k2.jpeg)
